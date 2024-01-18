@@ -1,0 +1,61 @@
+.calci {
+    position: absolute;
+    top: 2%;
+    left: 43%;
+    text-decoration: underline;
+    color: #fff;
+}
+.value1 {
+    position: absolute;
+    top: 18%;
+    left: 35%;
+}
+.operator {
+    position: absolute;
+    top: 26%;
+    left: 35%;
+}
+.value2{
+    position: absolute;
+    top: 34%;
+    left: 35%;
+}
+.button {
+    background-color: #04AA6D; 
+    position: absolute;
+    top: 42%;
+    left: 44%;
+    border: 1px solid #f309e7;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: rgb(0, 240, 228); 
+    color: black; 
+    border: 2px solid #a504aa;
+  }
+  
+  .button1:hover {
+    background-color: #ff00ee;
+    color: white;
+  }
+  .result {
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    width: 200px;
+    height: 35px;
+    border: 2px solid #fff;
+    text-align: center;
+    padding-top: 10px;
+  }
+
+ 
